@@ -1,4 +1,4 @@
-// 88. https://leetcode.com/problems/merge-sorted-array/
+// 88. 
 
 import java.util.Arrays;
 class Solution {

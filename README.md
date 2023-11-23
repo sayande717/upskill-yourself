@@ -24,7 +24,7 @@ Things you will find in this repository:
 ## My Progress
 ### LeetCode
 
-- In case you can't access the link, the **Problem Description** has been provided in the respective **Intuition** part.
+> In case you can't access the link, the **Problem Description** has been provided in the respective **Intuition** part.
 
 | Question | Intuition | Difficulty | Solution | Time Taken [HH:MM] |
 | :---: | :---: | :---: | :---: | :---: |
@@ -42,3 +42,6 @@ Things you will find in this repository:
 | [9](https://leetcode.com/problems/palindrome-number/) | [show](./self/platforms/leetcode/README.md#9) | Easy | [Java](./self/platforms/leetcode/12.java) | Not recorded |
 | [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [show](./self/platforms/leetcode/README.md#26) | Easy | [Java](./self/platforms/leetcode/13.java) | Not recorded |
 | [605](https://leetcode.com/problems/place-flowers/) | [show](./self/platforms/leetcode/README.md#605) | Easy | [Java](./self/platforms/leetcode/14.java) | 00:17 |
+| [20](https://leetcode.com/problems/valid-parentheses/) | [show](./self/platforms/leetcode/README.md#20) | Easy | [Java](./self/platforms/leetcode/15.java) | Not recorded |
+| [21](https://leetcode.com/problems/merge-two-sorted-lists/) | [show](./self/platforms/leetcode/README.md#21) | Easy | [Java](./self/platforms/leetcode/16.java) | Not recorded |
+| [744](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [show](./self/platforms/leetcode/README.md#744) | Easy | [Java](./self/platforms/leetcode/17.java) | Not recorded |

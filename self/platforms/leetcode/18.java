@@ -12,6 +12,7 @@ class Solution {
         
         return answer;
     }
+    
     int searchElement(int[] nums, int target, boolean startIndex) {
         int start = 0;
         int end = nums.length-1;
